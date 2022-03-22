@@ -9,7 +9,7 @@
   
   inputs.src-zippy-0_4_0.flake = false;
   inputs.src-zippy-0_4_0.owner = "guzba";
-  inputs.src-zippy-0_4_0.ref   = "refs/tags/0.4.0";
+  inputs.src-zippy-0_4_0.ref   = "0_4_0";
   inputs.src-zippy-0_4_0.repo  = "zippy";
   inputs.src-zippy-0_4_0.type  = "github";
   
