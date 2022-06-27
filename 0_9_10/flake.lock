@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-zippy-master": "src-zippy-master"
+        "src-zippy-0_9_10": "src-zippy-0_9_10"
       }
     },
-    "src-zippy-master": {
+    "src-zippy-0_9_10": {
       "flake": false,
       "locked": {
-        "lastModified": 1655910986,
-        "narHash": "sha256-qAI26waxezv/8guS19putgK1U5+NcANXU9T2pGVfYeY=",
+        "lastModified": 1654450490,
+        "narHash": "sha256-q9dwSfD1dSyD0IwilUFgUgUct8mC1tuRQx9/ZGyg3Ss=",
         "owner": "guzba",
         "repo": "zippy",
-        "rev": "15fe6918cadfc136e4aa6de768e683bcd87f0950",
+        "rev": "ac6ded9faf30c70214afd4638ee6ba225a6d4a2e",
         "type": "github"
       },
       "original": {
         "owner": "guzba",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.9.10",
         "repo": "zippy",
         "type": "github"
       }
